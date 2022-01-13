@@ -31,9 +31,11 @@
   <link rel="manifest" href="manifest.json">
   <style>
     .loading {
-      display: flex;
+      display: table-column;
       justify-content: center;
       align-items: center;
+      align-content: center;
+      align-self: center;
       margin: 0;
       position: absolute;
       top: 50%;
@@ -83,7 +85,7 @@
        application. For more information, see:
        https://developers.google.com/web/fundamentals/primers/service-workers -->
   <div class="loading">
-    <div class="loader"></div>
+    <h1 style="text-align: center;">Takes a long time because it uses flutter web...</h1>
   </div>
   <script src="main.dart.js" type="application/javascript"></script>
   <script>
