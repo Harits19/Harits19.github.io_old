@@ -1,6 +1,6 @@
 {
-    "name": "portofolio_web",
-    "short_name": "portofolio_web",
+    "name": "harits_portofolio",
+    "short_name": "harits_portofolio",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
