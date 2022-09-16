@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "ab0ce78e559ea08d0c6336ccaa603ce7",
-"index.html": "6cf802af4ea7b38a599536184265cbc8",
-"/": "6cf802af4ea7b38a599536184265cbc8",
-"main.dart.js": "f85fdab7bad2f6766a763c7971103b61",
+"index.html": "de3338f9ebddf3926ddc3029073f773d",
+"/": "de3338f9ebddf3926ddc3029073f773d",
+"main.dart.js": "4a140887175d6fe5fedcb875178becb1",
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -52,8 +52,8 @@ const RESOURCES = {
 "assets/assets/tuntun.png": "a2eb1398571544cf37405b6d2933861d",
 "assets/assets/profile.jpg": "e2ce5c878d0f06aa95f80d0f1a01c2f1",
 "assets/assets/skyshi.png": "80b2e93e0f604580f66f9b4f41079b00",
-"assets/assets/translations/en.yaml": "f5d46e365533aae803c4b05c2fbf2583",
-"assets/assets/translations/id.yaml": "68db34d6b71e74d8c06d5a6b819a4c02",
+"assets/assets/translations/en.yaml": "bc78634a8f7cdd68fb7f11d208f6e09a",
+"assets/assets/translations/id.yaml": "82835431f2fff9303ae45b3b70cb9782",
 "assets/assets/smartfren.png": "6795a73502ac9ebea2d94fefc496a8dd",
 "assets/assets/soundfren.webp": "e876d2e675aae633969ac837f74cc140",
 "canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
